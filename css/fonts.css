@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Arkhip';
+    src: url('../fonts/Arkhip/Arkhip.ttf');
+}
+
+@font-face {
+    font-family: 'PTsansbold';
+    src: url('../fonts/PTsans/PTSans-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'PTsansregular';
+    src: url('../fonts/PTsans/PTSans-Regular.ttf');
+}
